@@ -29,6 +29,7 @@ Olá, meu nome é Geslon Schottz  <img src="https://media.giphy.com/media/12oufC
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 <p align="left">Versionamento:</p>
 
@@ -50,7 +51,7 @@ Olá, meu nome é Geslon Schottz  <img src="https://media.giphy.com/media/12oufC
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
